@@ -165,18 +165,7 @@ J 0 <br>
 
 <hr>
 
-Path found: ['A', 'F', 'G', 'I', 'J']
-
 <img width="640" height="433" alt="image" src="https://github.com/user-attachments/assets/43571210-4590-49fb-bbe8-20fb55e78b46" />
-
-
-<hr>
-
-<h2>Sample Graph II</h2>
-
-<hr>
-
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
 
 <hr>
 
